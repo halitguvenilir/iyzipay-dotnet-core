@@ -1,0 +1,6 @@
+G:\e\iyzipay-dotnet-core\Iyzico\bin\Debug\netcoreapp1.1\Iyzico.deps.json
+G:\e\iyzipay-dotnet-core\Iyzico\bin\Debug\netcoreapp1.1\Iyzico.dll
+G:\e\iyzipay-dotnet-core\Iyzico\bin\Debug\netcoreapp1.1\Iyzico.pdb
+G:\e\iyzipay-dotnet-core\Iyzico\obj\Debug\netcoreapp1.1\Iyzico.AssemblyInfo.cs
+G:\e\iyzipay-dotnet-core\Iyzico\obj\Debug\netcoreapp1.1\Iyzico.dll
+G:\e\iyzipay-dotnet-core\Iyzico\obj\Debug\netcoreapp1.1\Iyzico.pdb
